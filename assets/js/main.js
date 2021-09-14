@@ -5,6 +5,9 @@ function _(x){
 function __(x){
     return document.querySelectorAll(x)
 }
+function ___(x){
+    return document.getElementsByClassName(x)
+}
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = _('nav-menu'),
     navToggle = _('nav-toggle'),
@@ -35,7 +38,21 @@ function linkAction(){
 navLink.forEach(n => n.addEventListener('click', linkAction));
 
 /*==================== ACCORDION SKILLS ====================*/
+const skillsContent = ___('skills__content'),
+      skillsHeader =  __('.skills__header')
 
+function toggleSkills(){
+    let itemClass = this.parentNode.className;
+    for (let i = 0; i < skillsContent.length; i++) {
+        skillsContent[i].className = 'skills__content skills__close'        
+    }
+    if (itemClass === 'skills__content skills__close') {
+        this.parentNode.className = 'skills__content skills__open'
+    }
+}
+skillsHeader.forEach((el) => {
+    el.addEventListener('click', toggleSkills)
+})
 
 /*==================== QUALIFICATION TABS ====================*/
 
