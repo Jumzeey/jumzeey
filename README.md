@@ -106,10 +106,6 @@ Here are some ideas to get you started:
 
   <br>
 
-### Code
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-  
 ### Badges
 
 <b>My GitHub Stats</b>
