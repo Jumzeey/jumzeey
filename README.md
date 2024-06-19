@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 * ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/jumat-adeogun/) or at [adeogun64@gmail.com](mailto:adeogun64@gmail.com)
 * 🤝  I'm open to collaborating on web or mobile app projects irrespective of their scale
 * ⚡  I want to see your digital product(s) thrive in the market. Let's work together to make it happen ✨
+* 🔭 I’m currently learning Golang ...
 
   <br>
   
