@@ -112,6 +112,10 @@ Here are some ideas to get you started:
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/jumzeey"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jumzeey&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-  <br>
+<b>My WakaTime Stats</b>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<br>
 
 _PS: Most of my project contributions are on private repositories_
