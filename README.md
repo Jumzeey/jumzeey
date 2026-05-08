@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 ### Skills
 
 <p align="left">
-<div style="display: flex; gap: 5px;">
+<div style="display: flex; gap: 5px; flex-direction: row;">
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
